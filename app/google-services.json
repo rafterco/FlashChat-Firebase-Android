@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95733375814",
+    "firebase_url": "https://flashchatandroid-7017d.firebaseio.com",
+    "project_id": "flashchatandroid-7017d",
+    "storage_bucket": "flashchatandroid-7017d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95733375814:android:dd231915ba227e06b57b47",
+        "android_client_info": {
+          "package_name": "com.rafterco.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95733375814-nq2uci0olhhl3ca7l94hv8nstonvj1kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafterco.flashchatnewfirebase",
+            "certificate_hash": "8e242ca56547559290da242bb5e3e979bf49cdd0"
+          }
+        },
+        {
+          "client_id": "95733375814-btr652m9rnf26gfjpd15t8025ujt488u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_JJzgvnniUfTlqvm_KDlWHn4BJz2CMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95733375814-btr652m9rnf26gfjpd15t8025ujt488u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

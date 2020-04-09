@@ -18,4 +18,6 @@
         completions."
     </string>
     <string name="sample_message">Hello!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="google_login">Google Login</string>
 </resources>
